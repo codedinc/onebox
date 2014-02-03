@@ -22,7 +22,7 @@ module Onebox
       private
 
       def video_id
-        @url[%r{vimeo\.com\.(\d+)}, 1]
+        @url[%r{vimeo\.com\/(\d+)}, 1]
       end
 
     end
