@@ -96,7 +96,6 @@ module Onebox
           tumblr.com
           twitpic.com
           usatoday.com
-          vimeo.com
           walmart.com
           washingtonpost.com
           wikia.com
